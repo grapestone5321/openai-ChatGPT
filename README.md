@@ -7,3 +7,11 @@ openai-ChatGPT
 
 https://arxiv.org/pdf/2304.01852.pdf
 
+
+### ChatGPT: Applications, Opportunities, and Threats
+
+https://arxiv.org/pdf/2304.09103.pdf
+
+
+
+
