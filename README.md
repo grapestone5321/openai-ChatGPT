@@ -13,5 +13,6 @@ https://arxiv.org/pdf/2304.01852.pdf
 https://arxiv.org/pdf/2304.09103.pdf
 
 
+### GPT-4 Technical Report
 
-
+https://arxiv.org/pdf/2303.08774.pdf
